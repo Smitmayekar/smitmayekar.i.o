@@ -1,1 +1,2 @@
-# smit
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
